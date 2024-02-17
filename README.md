@@ -1,4 +1,4 @@
-# NoSQL Social Network API
+# NetLinker API
 
 ## User Story
 
@@ -27,10 +27,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 From scratch, create an application that will perform CRUD operations using Mongoose to work with a MongoDB database. To perform these operations, utilize Insomnia to be able to successfully work with 'user' and 'thought' schemas. Be able to do GET, POST, PUT, and DELETE operations as you are inside of Insomnia using the source 'localhost:3001/'. For a bonus, be able to remove a user's associated thoughts as you are performing the DELETE operation for a specific user.
 
 ![img](./assets/nosql-social-screenshot.png)
-
-## Video Walkthrough Link
-
-https://youtu.be/hpfKxUrX6IU
 
 ## How to Run
 
